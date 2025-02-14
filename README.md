@@ -1,5 +1,5 @@
 
-# Flutter Country Explorer Ap
+# Flutter Country Explorer App
 
 # Project Overview
 The Country Explorer App is a Flutter application that fetches and displays country details using the REST Countries API. Users can search for countries and view information such as the:
